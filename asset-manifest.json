@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/prarabdha-soni/nike.git/static/css/main.9a768db2.chunk.css",
-    "main.js": "/prarabdha-soni/nike.git/static/js/main.b2201ee8.chunk.js",
-    "main.js.map": "/prarabdha-soni/nike.git/static/js/main.b2201ee8.chunk.js.map",
-    "runtime-main.js": "/prarabdha-soni/nike.git/static/js/runtime-main.12b37d73.js",
-    "runtime-main.js.map": "/prarabdha-soni/nike.git/static/js/runtime-main.12b37d73.js.map",
-    "static/js/2.ef4a34a9.chunk.js": "/prarabdha-soni/nike.git/static/js/2.ef4a34a9.chunk.js",
-    "static/js/2.ef4a34a9.chunk.js.map": "/prarabdha-soni/nike.git/static/js/2.ef4a34a9.chunk.js.map",
-    "index.html": "/prarabdha-soni/nike.git/index.html",
-    "static/css/main.9a768db2.chunk.css.map": "/prarabdha-soni/nike.git/static/css/main.9a768db2.chunk.css.map",
-    "static/js/2.ef4a34a9.chunk.js.LICENSE.txt": "/prarabdha-soni/nike.git/static/js/2.ef4a34a9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/prarabdha-soni/nike.git/static/media/Roboto-Regular.a8d6ac03.ttf",
-    "static/media/Nike.612da0c7.svg": "/prarabdha-soni/nike.git/static/media/Nike.612da0c7.svg",
-    "static/media/hero.398159a4.png": "/prarabdha-soni/nike.git/static/media/hero.398159a4.png",
-    "static/media/img1.c82a43fb.svg": "/prarabdha-soni/nike.git/static/media/img1.c82a43fb.svg",
-    "static/media/img2.cb61b829.svg": "/prarabdha-soni/nike.git/static/media/img2.cb61b829.svg",
-    "static/media/img3.5367a8fa.svg": "/prarabdha-soni/nike.git/static/media/img3.5367a8fa.svg",
-    "static/media/img4.a3f75e1f.svg": "/prarabdha-soni/nike.git/static/media/img4.a3f75e1f.svg",
-    "static/media/menBanner.6d50d0df.svg": "/prarabdha-soni/nike.git/static/media/menBanner.6d50d0df.svg",
-    "static/media/womenBanner.9acb6693.svg": "/prarabdha-soni/nike.git/static/media/womenBanner.9acb6693.svg"
+    "main.css": "/nike/static/css/main.aae287d5.chunk.css",
+    "main.js": "/nike/static/js/main.e0ac0cc9.chunk.js",
+    "main.js.map": "/nike/static/js/main.e0ac0cc9.chunk.js.map",
+    "runtime-main.js": "/nike/static/js/runtime-main.0916927c.js",
+    "runtime-main.js.map": "/nike/static/js/runtime-main.0916927c.js.map",
+    "static/js/2.ef4a34a9.chunk.js": "/nike/static/js/2.ef4a34a9.chunk.js",
+    "static/js/2.ef4a34a9.chunk.js.map": "/nike/static/js/2.ef4a34a9.chunk.js.map",
+    "index.html": "/nike/index.html",
+    "static/css/main.aae287d5.chunk.css.map": "/nike/static/css/main.aae287d5.chunk.css.map",
+    "static/js/2.ef4a34a9.chunk.js.LICENSE.txt": "/nike/static/js/2.ef4a34a9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nike/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/Nike.612da0c7.svg": "/nike/static/media/Nike.612da0c7.svg",
+    "static/media/hero.398159a4.png": "/nike/static/media/hero.398159a4.png",
+    "static/media/img1.c82a43fb.svg": "/nike/static/media/img1.c82a43fb.svg",
+    "static/media/img2.cb61b829.svg": "/nike/static/media/img2.cb61b829.svg",
+    "static/media/img3.5367a8fa.svg": "/nike/static/media/img3.5367a8fa.svg",
+    "static/media/img4.a3f75e1f.svg": "/nike/static/media/img4.a3f75e1f.svg",
+    "static/media/menBanner.6d50d0df.svg": "/nike/static/media/menBanner.6d50d0df.svg",
+    "static/media/womenBanner.9acb6693.svg": "/nike/static/media/womenBanner.9acb6693.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.12b37d73.js",
+    "static/js/runtime-main.0916927c.js",
     "static/js/2.ef4a34a9.chunk.js",
-    "static/css/main.9a768db2.chunk.css",
-    "static/js/main.b2201ee8.chunk.js"
+    "static/css/main.aae287d5.chunk.css",
+    "static/js/main.e0ac0cc9.chunk.js"
   ]
 }
